@@ -1,0 +1,3187 @@
+[
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Abidjan",
+    "fields": {
+      "name": "Abidjan"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Accra",
+    "fields": {
+      "name": "Accra"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Addis_Ababa",
+    "fields": {
+      "name": "Addis Ababa"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Algiers",
+    "fields": {
+      "name": "Algiers"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Asmara",
+    "fields": {
+      "name": "Asmara"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Asmera",
+    "fields": {
+      "name": "Asmera"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Bamako",
+    "fields": {
+      "name": "Bamako"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Bangui",
+    "fields": {
+      "name": "Bangui"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Banjul",
+    "fields": {
+      "name": "Banjul"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Bissau",
+    "fields": {
+      "name": "Bissau"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Blantyre",
+    "fields": {
+      "name": "Blantyre"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Brazzaville",
+    "fields": {
+      "name": "Brazzaville"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Bujumbura",
+    "fields": {
+      "name": "Bujumbura"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Cairo",
+    "fields": {
+      "name": "Cairo"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Casablanca",
+    "fields": {
+      "name": "Casablanca"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Ceuta",
+    "fields": {
+      "name": "Ceuta"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Conakry",
+    "fields": {
+      "name": "Conakry"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Dakar",
+    "fields": {
+      "name": "Dakar"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Dar_es_Salaam",
+    "fields": {
+      "name": "Dar es Salaam"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Djibouti",
+    "fields": {
+      "name": "Djibouti"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Douala",
+    "fields": {
+      "name": "Douala"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/El_Aaiun",
+    "fields": {
+      "name": "El Aaiun"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Freetown",
+    "fields": {
+      "name": "Freetown"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Gaborone",
+    "fields": {
+      "name": "Gaborone"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Harare",
+    "fields": {
+      "name": "Harare"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Johannesburg",
+    "fields": {
+      "name": "Johannesburg"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Kampala",
+    "fields": {
+      "name": "Kampala"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Khartoum",
+    "fields": {
+      "name": "Khartoum"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Kigali",
+    "fields": {
+      "name": "Kigali"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Kinshasa",
+    "fields": {
+      "name": "Kinshasa"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Lagos",
+    "fields": {
+      "name": "Lagos"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Libreville",
+    "fields": {
+      "name": "Libreville"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Lome",
+    "fields": {
+      "name": "Lome"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Luanda",
+    "fields": {
+      "name": "Luanda"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Lubumbashi",
+    "fields": {
+      "name": "Lubumbashi"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Lusaka",
+    "fields": {
+      "name": "Lusaka"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Malabo",
+    "fields": {
+      "name": "Malabo"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Maputo",
+    "fields": {
+      "name": "Maputo"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Maseru",
+    "fields": {
+      "name": "Maseru"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Mbabane",
+    "fields": {
+      "name": "Mbabane"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Mogadishu",
+    "fields": {
+      "name": "Mogadishu"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Monrovia",
+    "fields": {
+      "name": "Monrovia"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Nairobi",
+    "fields": {
+      "name": "Nairobi"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Ndjamena",
+    "fields": {
+      "name": "Ndjamena"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Niamey",
+    "fields": {
+      "name": "Niamey"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Nouakchott",
+    "fields": {
+      "name": "Nouakchott"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Ouagadougou",
+    "fields": {
+      "name": "Ouagadougou"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Porto-Novo",
+    "fields": {
+      "name": "Porto-Novo"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Sao_Tome",
+    "fields": {
+      "name": "Sao Tome"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Timbuktu",
+    "fields": {
+      "name": "Timbuktu"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Tripoli",
+    "fields": {
+      "name": "Tripoli"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Tunis",
+    "fields": {
+      "name": "Tunis"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Africa/Windhoek",
+    "fields": {
+      "name": "Windhoek"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Adak",
+    "fields": {
+      "name": "Adak"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Anchorage",
+    "fields": {
+      "name": "Anchorage (Alaska)"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Anguilla",
+    "fields": {
+      "name": "Anguilla"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Antigua",
+    "fields": {
+      "name": "Antigua"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Araguaina",
+    "fields": {
+      "name": "Araguaina"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Argentina/Buenos_Aires",
+    "fields": {
+      "name": "Argentina - Buenos Aires"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Argentina/Catamarca",
+    "fields": {
+      "name": "Argentina - Catamarca"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Argentina/ComodRivadavia",
+    "fields": {
+      "name": "Argentina - ComodRivadavia"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Argentina/Cordoba",
+    "fields": {
+      "name": "Argentina - Cordoba"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Argentina/Jujuy",
+    "fields": {
+      "name": "Argentina - Jujuy"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Argentina/La_Rioja",
+    "fields": {
+      "name": "Argentina - La Rioja"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Argentina/Mendoza",
+    "fields": {
+      "name": "Argentina - Mendoza"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Argentina/Rio_Gallegos",
+    "fields": {
+      "name": "Argentina - Rio Gallegos"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Argentina/Salta",
+    "fields": {
+      "name": "Argentina - Salta"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Argentina/San_Juan",
+    "fields": {
+      "name": "Argentina - San Juan"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Argentina/San_Luis",
+    "fields": {
+      "name": "Argentina - San Luis"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Argentina/Tucuman",
+    "fields": {
+      "name": "Argentina - Tucuman"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Argentina/Ushuaia",
+    "fields": {
+      "name": "Argentina - Ushuaia"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Aruba",
+    "fields": {
+      "name": "Aruba"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Asuncion",
+    "fields": {
+      "name": "Asuncion"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Atka",
+    "fields": {
+      "name": "Atka"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Bahia",
+    "fields": {
+      "name": "Bahia"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Barbados",
+    "fields": {
+      "name": "Barbados"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Belem",
+    "fields": {
+      "name": "Belem"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Belize",
+    "fields": {
+      "name": "Belize"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Blanc-Sablon",
+    "fields": {
+      "name": "Blanc-Sablon"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Boa_Vista",
+    "fields": {
+      "name": "Boa Vista"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Bogota",
+    "fields": {
+      "name": "Bogota"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Boise",
+    "fields": {
+      "name": "Boise"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Buenos_Aires",
+    "fields": {
+      "name": "Buenos Aires"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Cambridge_Bay",
+    "fields": {
+      "name": "Cambridge Bay"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Campo_Grande",
+    "fields": {
+      "name": "Campo Grande"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Cancun",
+    "fields": {
+      "name": "Cancun"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Caracas",
+    "fields": {
+      "name": "Caracas"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Catamarca",
+    "fields": {
+      "name": "Catamarca"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Cayenne",
+    "fields": {
+      "name": "Cayenne"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Cayman",
+    "fields": {
+      "name": "Cayman"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Chicago",
+    "fields": {
+      "name": "Chicago (Central)"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Chihuahua",
+    "fields": {
+      "name": "Chihuahua"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Coral_Harbour",
+    "fields": {
+      "name": "Coral Harbour"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Cordoba",
+    "fields": {
+      "name": "Cordoba"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Costa_Rica",
+    "fields": {
+      "name": "Costa Rica"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Cuiaba",
+    "fields": {
+      "name": "Cuiaba"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Curacao",
+    "fields": {
+      "name": "Curacao"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Danmarkshavn",
+    "fields": {
+      "name": "Danmarkshavn"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Dawson",
+    "fields": {
+      "name": "Dawson"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Dawson_Creek",
+    "fields": {
+      "name": "Dawson Creek"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Denver",
+    "fields": {
+      "name": "Denver (Mountain)"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Detroit",
+    "fields": {
+      "name": "Detroit"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Dominica",
+    "fields": {
+      "name": "Dominica"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Edmonton",
+    "fields": {
+      "name": "Edmonton"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Eirunepe",
+    "fields": {
+      "name": "Eirunepe"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/El_Salvador",
+    "fields": {
+      "name": "El Salvador"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Ensenada",
+    "fields": {
+      "name": "Ensenada"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Fort_Wayne",
+    "fields": {
+      "name": "Fort Wayne"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Fortaleza",
+    "fields": {
+      "name": "Fortaleza"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Glace_Bay",
+    "fields": {
+      "name": "Glace Bay"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Godthab",
+    "fields": {
+      "name": "Godthab"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Goose_Bay",
+    "fields": {
+      "name": "Goose Bay"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Grand_Turk",
+    "fields": {
+      "name": "Grand Turk"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Grenada",
+    "fields": {
+      "name": "Grenada"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Guadeloupe",
+    "fields": {
+      "name": "Guadeloupe"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Guatemala",
+    "fields": {
+      "name": "Guatemala"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Guayaquil",
+    "fields": {
+      "name": "Guayaquil"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Guyana",
+    "fields": {
+      "name": "Guyana"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Halifax",
+    "fields": {
+      "name": "Halifax"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Havana",
+    "fields": {
+      "name": "Havana"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Hermosillo",
+    "fields": {
+      "name": "Hermosillo"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Indiana/Indianapolis",
+    "fields": {
+      "name": "Indiana - Indianapolis"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Indiana/Knox",
+    "fields": {
+      "name": "Indiana - Knox"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Indiana/Marengo",
+    "fields": {
+      "name": "Indiana - Marengo"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Indiana/Petersburg",
+    "fields": {
+      "name": "Indiana - Petersburg"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Indiana/Tell_City",
+    "fields": {
+      "name": "Indiana - Tell City"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Indiana/Vevay",
+    "fields": {
+      "name": "Indiana - Vevay"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Indiana/Vincennes",
+    "fields": {
+      "name": "Indiana - Vincennes"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Indiana/Winamac",
+    "fields": {
+      "name": "Indiana - Winamac"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Indianapolis",
+    "fields": {
+      "name": "Indianapolis"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Inuvik",
+    "fields": {
+      "name": "Inuvik"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Iqaluit",
+    "fields": {
+      "name": "Iqaluit"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Jamaica",
+    "fields": {
+      "name": "Jamaica"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Jujuy",
+    "fields": {
+      "name": "Jujuy"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Juneau",
+    "fields": {
+      "name": "Juneau"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Kentucky/Louisville",
+    "fields": {
+      "name": "Kentucky - Louisville"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Kentucky/Monticello",
+    "fields": {
+      "name": "Kentucky - Monticello"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Knox_IN",
+    "fields": {
+      "name": "Knox IN"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/La_Paz",
+    "fields": {
+      "name": "La Paz"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Lima",
+    "fields": {
+      "name": "Lima"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Los_Angeles",
+    "fields": {
+      "name": "Los Angeles (Pacific)"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Louisville",
+    "fields": {
+      "name": "Louisville"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Maceio",
+    "fields": {
+      "name": "Maceio"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Managua",
+    "fields": {
+      "name": "Managua"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Manaus",
+    "fields": {
+      "name": "Manaus"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Marigot",
+    "fields": {
+      "name": "Marigot"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Martinique",
+    "fields": {
+      "name": "Martinique"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Matamoros",
+    "fields": {
+      "name": "Matamoros"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Mazatlan",
+    "fields": {
+      "name": "Mazatlan"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Mendoza",
+    "fields": {
+      "name": "Mendoza"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Menominee",
+    "fields": {
+      "name": "Menominee"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Merida",
+    "fields": {
+      "name": "Merida"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Mexico_City",
+    "fields": {
+      "name": "Mexico City"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Miquelon",
+    "fields": {
+      "name": "Miquelon"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Moncton",
+    "fields": {
+      "name": "Moncton"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Monterrey",
+    "fields": {
+      "name": "Monterrey"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Montevideo",
+    "fields": {
+      "name": "Montevideo"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Montreal",
+    "fields": {
+      "name": "Montreal"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Montserrat",
+    "fields": {
+      "name": "Montserrat"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Nassau",
+    "fields": {
+      "name": "Nassau"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/New_York",
+    "fields": {
+      "name": "New York (Eastern)"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Nipigon",
+    "fields": {
+      "name": "Nipigon"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Nome",
+    "fields": {
+      "name": "Nome"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Noronha",
+    "fields": {
+      "name": "Noronha"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/North_Dakota/Center",
+    "fields": {
+      "name": "North Dakota - Center"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/North_Dakota/New_Salem",
+    "fields": {
+      "name": "North Dakota - New Salem"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Ojinaga",
+    "fields": {
+      "name": "Ojinaga"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Panama",
+    "fields": {
+      "name": "Panama"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Pangnirtung",
+    "fields": {
+      "name": "Pangnirtung"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Paramaribo",
+    "fields": {
+      "name": "Paramaribo"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Phoenix",
+    "fields": {
+      "name": "Phoenix (MST)"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Port-au-Prince",
+    "fields": {
+      "name": "Port-au-Prince"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Port_of_Spain",
+    "fields": {
+      "name": "Port of Spain"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Porto_Acre",
+    "fields": {
+      "name": "Porto Acre"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Porto_Velho",
+    "fields": {
+      "name": "Porto Velho"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Puerto_Rico",
+    "fields": {
+      "name": "Puerto Rico (Atlantic)"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Rainy_River",
+    "fields": {
+      "name": "Rainy River"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Rankin_Inlet",
+    "fields": {
+      "name": "Rankin Inlet"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Recife",
+    "fields": {
+      "name": "Recife"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Regina",
+    "fields": {
+      "name": "Regina"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Resolute",
+    "fields": {
+      "name": "Resolute"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Rio_Branco",
+    "fields": {
+      "name": "Rio Branco"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Rosario",
+    "fields": {
+      "name": "Rosario"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Santa_Isabel",
+    "fields": {
+      "name": "Santa Isabel"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Santarem",
+    "fields": {
+      "name": "Santarem"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Santiago",
+    "fields": {
+      "name": "Santiago"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Santo_Domingo",
+    "fields": {
+      "name": "Santo Domingo"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Sao_Paulo",
+    "fields": {
+      "name": "Sao Paulo"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Scoresbysund",
+    "fields": {
+      "name": "Scoresbysund"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Shiprock",
+    "fields": {
+      "name": "Shiprock"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/St_Barthelemy",
+    "fields": {
+      "name": "St Barthelemy"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/St_Johns",
+    "fields": {
+      "name": "St Johns"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/St_Kitts",
+    "fields": {
+      "name": "St Kitts"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/St_Lucia",
+    "fields": {
+      "name": "St Lucia"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/St_Thomas",
+    "fields": {
+      "name": "St Thomas"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/St_Vincent",
+    "fields": {
+      "name": "St Vincent"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Swift_Current",
+    "fields": {
+      "name": "Swift Current"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Tegucigalpa",
+    "fields": {
+      "name": "Tegucigalpa"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Thule",
+    "fields": {
+      "name": "Thule"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Thunder_Bay",
+    "fields": {
+      "name": "Thunder Bay"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Tijuana",
+    "fields": {
+      "name": "Tijuana"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Toronto",
+    "fields": {
+      "name": "Toronto"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Tortola",
+    "fields": {
+      "name": "Tortola"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Vancouver",
+    "fields": {
+      "name": "Vancouver"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Virgin",
+    "fields": {
+      "name": "Virgin"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Whitehorse",
+    "fields": {
+      "name": "Whitehorse"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Winnipeg",
+    "fields": {
+      "name": "Winnipeg"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Yakutat",
+    "fields": {
+      "name": "Yakutat"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "America/Yellowknife",
+    "fields": {
+      "name": "Yellowknife"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Antarctica/Casey",
+    "fields": {
+      "name": "Casey"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Antarctica/Davis",
+    "fields": {
+      "name": "Davis"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Antarctica/DumontDUrville",
+    "fields": {
+      "name": "DumontDUrville"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Antarctica/Macquarie",
+    "fields": {
+      "name": "Macquarie"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Antarctica/Mawson",
+    "fields": {
+      "name": "Mawson"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Antarctica/McMurdo",
+    "fields": {
+      "name": "McMurdo"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Antarctica/Palmer",
+    "fields": {
+      "name": "Palmer"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Antarctica/Rothera",
+    "fields": {
+      "name": "Rothera"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Antarctica/South_Pole",
+    "fields": {
+      "name": "South Pole"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Antarctica/Syowa",
+    "fields": {
+      "name": "Syowa"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Antarctica/Vostok",
+    "fields": {
+      "name": "Vostok"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Arctic/Longyearbyen",
+    "fields": {
+      "name": "Longyearbyen"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Aden",
+    "fields": {
+      "name": "Aden"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Almaty",
+    "fields": {
+      "name": "Almaty"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Amman",
+    "fields": {
+      "name": "Amman"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Anadyr",
+    "fields": {
+      "name": "Anadyr"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Aqtau",
+    "fields": {
+      "name": "Aqtau"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Aqtobe",
+    "fields": {
+      "name": "Aqtobe"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Ashgabat",
+    "fields": {
+      "name": "Ashgabat"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Ashkhabad",
+    "fields": {
+      "name": "Ashkhabad"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Baghdad",
+    "fields": {
+      "name": "Baghdad"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Bahrain",
+    "fields": {
+      "name": "Bahrain"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Baku",
+    "fields": {
+      "name": "Baku"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Bangkok",
+    "fields": {
+      "name": "Bangkok"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Beirut",
+    "fields": {
+      "name": "Beirut"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Bishkek",
+    "fields": {
+      "name": "Bishkek"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Brunei",
+    "fields": {
+      "name": "Brunei"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Calcutta",
+    "fields": {
+      "name": "Calcutta"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Choibalsan",
+    "fields": {
+      "name": "Choibalsan"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Chongqing",
+    "fields": {
+      "name": "Chongqing"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Chungking",
+    "fields": {
+      "name": "Chungking"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Colombo",
+    "fields": {
+      "name": "Colombo"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Dacca",
+    "fields": {
+      "name": "Dacca"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Damascus",
+    "fields": {
+      "name": "Damascus"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Dhaka",
+    "fields": {
+      "name": "Dhaka"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Dili",
+    "fields": {
+      "name": "Dili"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Dubai",
+    "fields": {
+      "name": "Dubai"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Dushanbe",
+    "fields": {
+      "name": "Dushanbe"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Gaza",
+    "fields": {
+      "name": "Gaza"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Harbin",
+    "fields": {
+      "name": "Harbin"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Ho_Chi_Minh",
+    "fields": {
+      "name": "Ho Chi Minh"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Hong_Kong",
+    "fields": {
+      "name": "Hong Kong"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Hovd",
+    "fields": {
+      "name": "Hovd"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Irkutsk",
+    "fields": {
+      "name": "Irkutsk"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Istanbul",
+    "fields": {
+      "name": "Istanbul"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Jayapura",
+    "fields": {
+      "name": "Jayapura"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Jerusalem",
+    "fields": {
+      "name": "Jerusalem"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Kabul",
+    "fields": {
+      "name": "Kabul"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Kamchatka",
+    "fields": {
+      "name": "Kamchatka"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Karachi",
+    "fields": {
+      "name": "Karachi"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Kashgar",
+    "fields": {
+      "name": "Kashgar"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Kathmandu",
+    "fields": {
+      "name": "Kathmandu"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Katmandu",
+    "fields": {
+      "name": "Katmandu"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Kolkata",
+    "fields": {
+      "name": "Kolkata"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Krasnoyarsk",
+    "fields": {
+      "name": "Krasnoyarsk"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Kuala_Lumpur",
+    "fields": {
+      "name": "Kuala Lumpur"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Kuching",
+    "fields": {
+      "name": "Kuching"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Kuwait",
+    "fields": {
+      "name": "Kuwait"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Macao",
+    "fields": {
+      "name": "Macao"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Macau",
+    "fields": {
+      "name": "Macau"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Magadan",
+    "fields": {
+      "name": "Magadan"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Makassar",
+    "fields": {
+      "name": "Makassar"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Manila",
+    "fields": {
+      "name": "Manila"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Muscat",
+    "fields": {
+      "name": "Muscat"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Nicosia",
+    "fields": {
+      "name": "Nicosia"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Novokuznetsk",
+    "fields": {
+      "name": "Novokuznetsk"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Novosibirsk",
+    "fields": {
+      "name": "Novosibirsk"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Omsk",
+    "fields": {
+      "name": "Omsk"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Oral",
+    "fields": {
+      "name": "Oral"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Phnom_Penh",
+    "fields": {
+      "name": "Phnom Penh"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Pontianak",
+    "fields": {
+      "name": "Pontianak"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Pyongyang",
+    "fields": {
+      "name": "Pyongyang"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Qatar",
+    "fields": {
+      "name": "Qatar"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Qyzylorda",
+    "fields": {
+      "name": "Qyzylorda"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Rangoon",
+    "fields": {
+      "name": "Rangoon"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Riyadh",
+    "fields": {
+      "name": "Riyadh"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Saigon",
+    "fields": {
+      "name": "Saigon"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Sakhalin",
+    "fields": {
+      "name": "Sakhalin"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Samarkand",
+    "fields": {
+      "name": "Samarkand"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Seoul",
+    "fields": {
+      "name": "Seoul"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Shanghai",
+    "fields": {
+      "name": "Shanghai"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Singapore",
+    "fields": {
+      "name": "Singapore"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Taipei",
+    "fields": {
+      "name": "Taipei"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Tashkent",
+    "fields": {
+      "name": "Tashkent"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Tbilisi",
+    "fields": {
+      "name": "Tbilisi"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Tehran",
+    "fields": {
+      "name": "Tehran"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Tel_Aviv",
+    "fields": {
+      "name": "Tel Aviv"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Thimbu",
+    "fields": {
+      "name": "Thimbu"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Thimphu",
+    "fields": {
+      "name": "Thimphu"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Tokyo",
+    "fields": {
+      "name": "Tokyo"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Ujung_Pandang",
+    "fields": {
+      "name": "Ujung Pandang"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Ulaanbaatar",
+    "fields": {
+      "name": "Ulaanbaatar"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Ulan_Bator",
+    "fields": {
+      "name": "Ulan_Bator"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Urumqi",
+    "fields": {
+      "name": "Urumqi"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Vientiane",
+    "fields": {
+      "name": "Vientiane"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Vladivostok",
+    "fields": {
+      "name": "Vladivostok"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Yakutsk",
+    "fields": {
+      "name": "Yakutsk"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Yekaterinburg",
+    "fields": {
+      "name": "Yekaterinburg"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Asia/Yerevan",
+    "fields": {
+      "name": "Yerevan"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Atlantic/Azores",
+    "fields": {
+      "name": "Azores"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Atlantic/Bermuda",
+    "fields": {
+      "name": "Bermuda"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Atlantic/Canary",
+    "fields": {
+      "name": "Canary"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Atlantic/Cape_Verde",
+    "fields": {
+      "name": "Cape Verde"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Atlantic/Faeroe",
+    "fields": {
+      "name": "Faeroe"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Atlantic/Faroe",
+    "fields": {
+      "name": "Faroe"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Atlantic/Jan_Mayen",
+    "fields": {
+      "name": "Jan Mayen"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Atlantic/Madeira",
+    "fields": {
+      "name": "Madeira"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Atlantic/Reykjavik",
+    "fields": {
+      "name": "Reykjavik"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Atlantic/South_Georgia",
+    "fields": {
+      "name": "South Georgia"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Atlantic/St_Helena",
+    "fields": {
+      "name": "St Helena"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Atlantic/Stanley",
+    "fields": {
+      "name": "Stanley"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Australia/ACT",
+    "fields": {
+      "name": "ACT"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Australia/Adelaide",
+    "fields": {
+      "name": "Adelaide"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Australia/Brisbane",
+    "fields": {
+      "name": "Brisbane"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Australia/Broken_Hill",
+    "fields": {
+      "name": "Broken Hill"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Australia/Canberra",
+    "fields": {
+      "name": "Canberra"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Australia/Currie",
+    "fields": {
+      "name": "Currie"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Australia/Darwin",
+    "fields": {
+      "name": "Darwin"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Australia/Eucla",
+    "fields": {
+      "name": "Eucla"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Australia/Hobart",
+    "fields": {
+      "name": "Hobart"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Australia/LHI",
+    "fields": {
+      "name": "LHI"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Australia/Lindeman",
+    "fields": {
+      "name": "Lindeman"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Australia/Lord_Howe",
+    "fields": {
+      "name": "Lord Howe"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Australia/Melbourne",
+    "fields": {
+      "name": "Melbourne"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Australia/NSW",
+    "fields": {
+      "name": "NSW"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Australia/North",
+    "fields": {
+      "name": "North"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Australia/Perth",
+    "fields": {
+      "name": "Perth"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Australia/Queensland",
+    "fields": {
+      "name": "Queensland"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Australia/South",
+    "fields": {
+      "name": "South"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Australia/Sydney",
+    "fields": {
+      "name": "Sydney"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Australia/Tasmania",
+    "fields": {
+      "name": "Tasmania"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Australia/Victoria",
+    "fields": {
+      "name": "Victoria"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Australia/West",
+    "fields": {
+      "name": "West"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Australia/Yancowinna",
+    "fields": {
+      "name": "Yancowinna"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Amsterdam",
+    "fields": {
+      "name": "Amsterdam"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Andorra",
+    "fields": {
+      "name": "Andorra"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Athens",
+    "fields": {
+      "name": "Athens"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Belfast",
+    "fields": {
+      "name": "Belfast"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Belgrade",
+    "fields": {
+      "name": "Belgrade"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Berlin",
+    "fields": {
+      "name": "Berlin"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Bratislava",
+    "fields": {
+      "name": "Bratislava"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Brussels",
+    "fields": {
+      "name": "Brussels"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Bucharest",
+    "fields": {
+      "name": "Bucharest"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Budapest",
+    "fields": {
+      "name": "Budapest"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Chisinau",
+    "fields": {
+      "name": "Chisinau"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Copenhagen",
+    "fields": {
+      "name": "Copenhagen"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Dublin",
+    "fields": {
+      "name": "Dublin"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Gibraltar",
+    "fields": {
+      "name": "Gibraltar"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Guernsey",
+    "fields": {
+      "name": "Guernsey"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Helsinki",
+    "fields": {
+      "name": "Helsinki"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Isle_of_Man",
+    "fields": {
+      "name": "Isle of Man"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Istanbul",
+    "fields": {
+      "name": "Istanbul"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Jersey",
+    "fields": {
+      "name": "Jersey"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Kaliningrad",
+    "fields": {
+      "name": "Kaliningrad"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Kiev",
+    "fields": {
+      "name": "Kiev"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Lisbon",
+    "fields": {
+      "name": "Lisbon"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Ljubljana",
+    "fields": {
+      "name": "Ljubljana"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/London",
+    "fields": {
+      "name": "London"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Luxembourg",
+    "fields": {
+      "name": "Luxembourg"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Madrid",
+    "fields": {
+      "name": "Madrid"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Malta",
+    "fields": {
+      "name": "Malta"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Mariehamn",
+    "fields": {
+      "name": "Mariehamn"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Minsk",
+    "fields": {
+      "name": "Minsk"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Monaco",
+    "fields": {
+      "name": "Monaco"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Moscow",
+    "fields": {
+      "name": "Moscow"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Nicosia",
+    "fields": {
+      "name": "Nicosia"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Oslo",
+    "fields": {
+      "name": "Oslo"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Paris",
+    "fields": {
+      "name": "Paris"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Podgorica",
+    "fields": {
+      "name": "Podgorica"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Prague",
+    "fields": {
+      "name": "Prague"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Riga",
+    "fields": {
+      "name": "Riga"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Rome",
+    "fields": {
+      "name": "Rome"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Samara",
+    "fields": {
+      "name": "Samara"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/San_Marino",
+    "fields": {
+      "name": "San Marino"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Sarajevo",
+    "fields": {
+      "name": "Sarajevo"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Simferopol",
+    "fields": {
+      "name": "Simferopol"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Skopje",
+    "fields": {
+      "name": "Skopje"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Sofia",
+    "fields": {
+      "name": "Sofia"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Stockholm",
+    "fields": {
+      "name": "Stockholm"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Tallinn",
+    "fields": {
+      "name": "Tallinn"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Tirane",
+    "fields": {
+      "name": "Tirane"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Tiraspol",
+    "fields": {
+      "name": "Tiraspol"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Uzhgorod",
+    "fields": {
+      "name": "Uzhgorod"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Vaduz",
+    "fields": {
+      "name": "Vaduz"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Vatican",
+    "fields": {
+      "name": "Vatican"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Vienna",
+    "fields": {
+      "name": "Vienna"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Vilnius",
+    "fields": {
+      "name": "Vilnius"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Volgograd",
+    "fields": {
+      "name": "Volgograd"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Warsaw",
+    "fields": {
+      "name": "Warsaw"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Zagreb",
+    "fields": {
+      "name": "Zagreb"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Zaporozhye",
+    "fields": {
+      "name": "Zaporozhye"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Europe/Zurich",
+    "fields": {
+      "name": "Zurich"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Indian/Antananarivo",
+    "fields": {
+      "name": "Antananarivo"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Indian/Chagos",
+    "fields": {
+      "name": "Chagos"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Indian/Christmas",
+    "fields": {
+      "name": "Christmas"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Indian/Cocos",
+    "fields": {
+      "name": "Cocos"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Indian/Comoro",
+    "fields": {
+      "name": "Comoro"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Indian/Kerguelen",
+    "fields": {
+      "name": "Kerguelen"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Indian/Mahe",
+    "fields": {
+      "name": "Mahe"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Indian/Maldives",
+    "fields": {
+      "name": "Maldives"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Indian/Mauritius",
+    "fields": {
+      "name": "Mauritius"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Indian/Mayotte",
+    "fields": {
+      "name": "Mayotte"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Indian/Reunion",
+    "fields": {
+      "name": "Reunion"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Pacific/Apia",
+    "fields": {
+      "name": "Apia"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Pacific/Auckland",
+    "fields": {
+      "name": "Auckland"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Pacific/Chatham",
+    "fields": {
+      "name": "Chatham"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Pacific/Easter",
+    "fields": {
+      "name": "Easter"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Pacific/Efate",
+    "fields": {
+      "name": "Efate"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Pacific/Enderbury",
+    "fields": {
+      "name": "Enderbury"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Pacific/Fakaofo",
+    "fields": {
+      "name": "Fakaofo"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Pacific/Fiji",
+    "fields": {
+      "name": "Fiji"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Pacific/Funafuti",
+    "fields": {
+      "name": "Funafuti"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Pacific/Galapagos",
+    "fields": {
+      "name": "Galapagos"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Pacific/Gambier",
+    "fields": {
+      "name": "Gambier"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Pacific/Guadalcanal",
+    "fields": {
+      "name": "Guadalcanal"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Pacific/Guam",
+    "fields": {
+      "name": "Guam"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Pacific/Honolulu",
+    "fields": {
+      "name": "Honolulu (Hawaii)"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Pacific/Johnston",
+    "fields": {
+      "name": "Johnston"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Pacific/Kiritimati",
+    "fields": {
+      "name": "Kiritimati"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Pacific/Kosrae",
+    "fields": {
+      "name": "Kosrae"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Pacific/Kwajalein",
+    "fields": {
+      "name": "Kwajalein"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Pacific/Majuro",
+    "fields": {
+      "name": "Majuro"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Pacific/Marquesas",
+    "fields": {
+      "name": "Marquesas"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Pacific/Midway",
+    "fields": {
+      "name": "Midway"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Pacific/Nauru",
+    "fields": {
+      "name": "Nauru"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Pacific/Niue",
+    "fields": {
+      "name": "Niue"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Pacific/Norfolk",
+    "fields": {
+      "name": "Norfolk"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Pacific/Noumea",
+    "fields": {
+      "name": "Noumea"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Pacific/Pago_Pago",
+    "fields": {
+      "name": "Pago Pago"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Pacific/Palau",
+    "fields": {
+      "name": "Palau"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Pacific/Pitcairn",
+    "fields": {
+      "name": "Pitcairn"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Pacific/Ponape",
+    "fields": {
+      "name": "Ponape"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Pacific/Port_Moresby",
+    "fields": {
+      "name": "Port Moresby"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Pacific/Rarotonga",
+    "fields": {
+      "name": "Rarotonga"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Pacific/Saipan",
+    "fields": {
+      "name": "Saipan"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Pacific/Samoa",
+    "fields": {
+      "name": "Samoa"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Pacific/Tahiti",
+    "fields": {
+      "name": "Tahiti"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Pacific/Tarawa",
+    "fields": {
+      "name": "Tarawa"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Pacific/Tongatapu",
+    "fields": {
+      "name": "Tongatapu"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Pacific/Truk",
+    "fields": {
+      "name": "Truk"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Pacific/Wake",
+    "fields": {
+      "name": "Wake"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Pacific/Wallis",
+    "fields": {
+      "name": "Wallis"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "Pacific/Yap",
+    "fields": {
+      "name": "Yap"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "UTC",
+    "fields": {
+      "name": "UTC"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "merica/Atikokan",
+    "fields": {
+      "name": "Atikokan"
+    }
+  },
+  {
+    "model": "core.timezone",
+    "pk": "sia/Jakarta",
+    "fields": {
+      "name": "Jakarta"
+    }
+  }
+]
